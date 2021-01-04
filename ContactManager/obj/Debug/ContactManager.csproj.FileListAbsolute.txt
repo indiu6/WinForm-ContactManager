@@ -20,3 +20,14 @@ C:\Users\hewas\OneDrive\PROGRAMMING\repos\PROG Concept2 Aneta\SYang_Assignment4\
 C:\Users\hewas\OneDrive\PROGRAMMING\repos\PROG Concept2 Aneta\SYang_Assignment4\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
 C:\Users\hewas\OneDrive\PROGRAMMING\repos\PROG Concept2 Aneta\SYang_Assignment4\ContactManager\obj\Debug\ContactManager.exe
 C:\Users\hewas\OneDrive\PROGRAMMING\repos\PROG Concept2 Aneta\SYang_Assignment4\ContactManager\obj\Debug\ContactManager.pdb
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.csprojAssemblyReference.cache
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.MainContactForm.resources
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.Properties.Resources.resources
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.SecondaryContactForm.resources
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.csproj.GenerateResource.cache
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\hewas\Desktop\GitRepos\Csharp_WinForm-ContactManager\ContactManager\obj\Debug\ContactManager.pdb
